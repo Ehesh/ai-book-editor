@@ -1,6 +1,6 @@
 # AutoGen Book Generator
 
-A Python-based system that uses AutoGen to generate complete books through collaborative AI agents. The system employs multiple specialized agents working together to create coherent, structured narratives from initial prompts.
+A Python-based system that uses Smolagents to assist in book and creative development through collaborative AI agents. The system employs multiple specialized agents working together to create coherent, structured narratives from initial prompts. This is a modified version of adamwlarson's ai-book-writer. This is an initial attempt to get into coding python. I will be editing this readme as I go on.
 
 ## Features
 
